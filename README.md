@@ -18,10 +18,12 @@ https://www.zhihu.com/question/34580996
 ·骑兵和刀盾兵怎么做数值平衡
 
 ·SLG游戏中怎么计算建筑的升值成本，战斗力数值
+https://www.zhihu.com/question/34016367?utm_id=0
 
 ·怎么做多个英雄的平衡。
 
 ·兰彻斯特方程
+https://www.361478.com/baizi/354984.html
 
 ### 2.2数值设计问题
 ·现场要求设计一个MOBA英雄，某英雄的技能优化？
